@@ -2,6 +2,8 @@
 
 Testing out OpenAI API using the OpenAI API [quickstart tutorial](https://platform.openai.com/docs/quickstart). It uses the [Next.js](https://nextjs.org/) framework with [React](https://reactjs.org/). Check out the tutorial or follow the instructions below to get set up.
 
+![Capture](https://user-images.githubusercontent.com/72732410/233420647-86294249-e342-4402-94c9-8f36bc5bcfde.PNG)
+
 ## Setup
 
 1. If you don’t have Node.js installed, [install it from here](https://nodejs.org/en/) (Node.js version >= 14.6.0 required)
